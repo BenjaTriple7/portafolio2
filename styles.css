@@ -46,7 +46,7 @@ header {
     left: 50px;
 }
 .ttnombre h1 {
-    font-size: 50px;
+    font-size: 60px;
     color: #33FF92;
     margin-bottom: 10px;
 }
@@ -228,6 +228,9 @@ header {
     .tarjeta {
         width: 75%;
         height: 90%;
+    }
+    .content {
+        margin-left: 50px;
     }
     .content h1{
         font-size: 25px;
