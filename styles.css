@@ -153,11 +153,19 @@ header {
     line-height: 1;
     width: 100%;
 }
+.content h3{ 
+    font-size: 23px;
+    color: #33FF92;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
 
 
 @media (max-width: 1200px) {
     .content h1{
-        font-size: 30px;
+        font-size: 25px;
+    }
+    .content h3{
+        font-size: 23px;
     }
     .content p{
         font-size: 15px;
@@ -360,7 +368,7 @@ footer {
 }
 
 .footer-contact a {
-    color: #33ff92;
+    color: #ffffff;
     text-decoration: underline;
     transition: color 0.2s;
 }
