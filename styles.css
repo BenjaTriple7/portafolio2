@@ -436,6 +436,20 @@ footer p:last-child {
         height: 22px;
     }
 }
+.imageQR img{
+    width: 10%;
+    height: auto;
+}
+
+
+@media (max-width: 1000px) {
+    .imageQR{
+        display: none;
+    }
+    .imageQR img{
+        display: none;
+    }
+}
 
 
 
