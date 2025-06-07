@@ -55,7 +55,7 @@ header h1{
     margin-bottom: 10px;
 }
 .ttnombre p {
-    font-size: 20px;
+    font-size: 24px;
     color: #fff;
     width: 33%;
 }
@@ -151,7 +151,7 @@ header h1{
     text-align: left;          /* Alineación */
 }
 .content p {
-    font-size: 17px;
+    font-size: 19px;
     color: #fff;
     margin-top: 10px;
     line-height: 1;
@@ -329,14 +329,14 @@ header h1{
 }
 
 .project h3 {
-    font-size: 1.3rem;
+    font-size: 26px;
     color: #33ff92;
     margin-bottom: 10px;
     text-align: center;
 }
 
 .project p {
-    font-size: 1rem;
+    font-size: 18px;
     color: #fff;
     margin-bottom: 18px;
     text-align: center;
